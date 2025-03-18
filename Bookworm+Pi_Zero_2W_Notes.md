@@ -2,7 +2,7 @@ Image the SD card - use the Raspberry Pi Imager to create an image with SSH enab
 ---
 In order to get your pi camera to stream reliably and un-cropped:
 set gpu ram to at least 128 mb. *** works with 1640 x 1232, this is the minimum resolution with no cropping on the picam v2.1.  You can probably set gpu_mem to 192.  monitor free memory in the terminal with "free -m"  or in mainsail on the machine tab under system loads.
--
+
 to set the gpu memory on boot up edit the config text file in /boot/firmware
 sudo nano /boot/firmware/config.txt
 ```
