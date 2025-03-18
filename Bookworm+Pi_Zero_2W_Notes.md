@@ -89,3 +89,8 @@ Raspicam Cheat Sheet:
 http://192.168.101.99/webcam/control
 or
 http://192.168.101.99/webcam
+
+---
+initial setup of Klipper is best done by
+1: installing raspian with the raspberry pi imager. Use the lite 32bit image for the Pi Zero. https://www.raspberrypi.com/software/
+2: install Klipper with KIAUH https://github.com/dw-0/kiauh
