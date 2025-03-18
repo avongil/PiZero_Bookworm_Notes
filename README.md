@@ -14,8 +14,8 @@ Look at the Bookworm+Pi_Zero_2W_Notes.txt file for the notes taken when resolvin
 If you really want to avoid any headaches and have the added benifit of a wired connection and regualr usb ports, splurge and spend $65 on a Pi5. A Pi4 1 GB would be my minimum recomendations for a 3D printer with a webcam. 
 x86 is the ultimate option for limitless power.
 
-The Pi Zero 2W only has 2 micro USB ports. 1 for the MCU, one for the accelerometer or can and the Pi Ribbon cable is you have on the zero plus limited processing and GPU power for camera-streamer.  Cables must be made and power must be taken from the pins to save a USB connection.
-Unless you need the space savings, a full size Pi is probably even more cost effective considering the added ports.
+The Pi Zero 2W only has 2 micro USB ports. One can be used for the MCU, one is open for the accelerometer or other option and the Pi Ribbon cable is used for the cam. 
 
+You can fee up an addional one by using a serial connection from the GPIO ports. This is a bit more invlolved and will require a custom header to USB cable.
 
-
+Unless you need the space savings, a full size Pi is certainly faster to set up. It is probably even more cost effective considering the added ports don't require additional cables that you might not have.
