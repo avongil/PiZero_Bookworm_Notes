@@ -3,6 +3,7 @@ For those having WiFi and camera-streamer issues with the Pi Zero 2W.
 ---
 WiFi issues:  
 There are widespread ssh wifi lag issues with the Pi Zero. When you log into the pi all seems fine, then it hangs.  It takes serveral minutes to even list a directory.  
+There will also be random and frequent disconnects on the fluidd or mainsail interface.
 There seems to be lots of conflicting info online. I have confirmed they are not due to signal stregth.   They seem to be connected to power saving or having a diffrent time than your DNS.
 ---
 Camera-Streamer issues:  
