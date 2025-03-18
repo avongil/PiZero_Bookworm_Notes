@@ -24,3 +24,4 @@ The Pi Zero 2W only has 2 micro USB ports. 1 for the MCU, one for the accelerome
 Unless you need the space savings, a full size Pi is probably even more cost effective considering the added ports.
 
 
+

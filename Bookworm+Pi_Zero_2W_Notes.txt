@@ -28,7 +28,6 @@ resolution: 1640x1232                      # <width>x<height> format
 max_fps: 5                             # If hardware supports it, it will be forced, otherwise ignored/coerced.
 --
 
-
 ---------
 
 
