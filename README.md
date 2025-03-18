@@ -10,7 +10,7 @@ Camera-Streamer issues:
 No connection or just the first few frames.  Loss of connection after a few minutes. 
 These seem to be linked to not having enough GPU memory allocated since the GPU is used in camera-streamer.  
 ---
-Look at the Bookworm+Pi_Zero_2W_Notes.txt file for the notes taken when resolving this issue.
+Look at the Bookworm+Pi_Zero_2W_Notes.md file for the notes taken when resolving this issue.
 ---
 If you really want to avoid any headaches and have the added benifit of a wired connection and regualr usb ports, splurge and spend $65 on a Pi5. A Pi4 1 GB would be my minimum recomendations for a 3D printer with a webcam. 
 x86 is the ultimate option for limitless power.
