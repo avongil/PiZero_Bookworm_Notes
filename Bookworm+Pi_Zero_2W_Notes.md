@@ -84,7 +84,8 @@ date
 </h1>
 Shutdown the Pi softly and wait a few minutes. It does not have a RTC let alone a battery powered one. When you power it back on, log in again and check the time again with the date command. As long as you have an internet connection it should not lag behind the time you had the pi off.
 ---
-Raspicam Cheat Sheet:
+
+<h1>Raspicam Cheat Sheet:</h1>
 
 http://192.168.101.99/webcam/control
 or
@@ -92,5 +93,7 @@ http://192.168.101.99/webcam
 
 ---
 initial setup of Klipper is best done by
+
 1: installing raspian with the raspberry pi imager. Use the lite 32bit image for the Pi Zero. https://www.raspberrypi.com/software/
+
 2: install Klipper with KIAUH https://github.com/dw-0/kiauh
